@@ -20,4 +20,4 @@ Later, Flask was used for the webframework. The collected data from S3 (features
 
 A basic HTML/CSS website was developed to display the result daily. Link to website can be found here! 
 
-<img style="width: 60%;" src="architecture.png">
+<img style="width: 60%;" src="image/architecture.png">
